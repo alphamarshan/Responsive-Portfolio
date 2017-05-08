@@ -1,1 +1,2 @@
-# Responsive-Portfolio
+# Basic-Portfolio
+1st Assignment - HTML/CSS
